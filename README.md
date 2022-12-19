@@ -5,5 +5,3 @@ I'm an engineer who's spent most of my career in embedded systems, designing cir
 - 🌱 I’m currently learning Kotlin via my [Advent of Code 2021](https://github.com/smjackson/adventofcode2021) repo.
 - 💬 Ask me about embedded development with C or C++
 - 😄 Pronouns: he/him
-
-[![smjackson's github stats](https://github-readme-stats.vercel.app/api?username=smjackson&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
